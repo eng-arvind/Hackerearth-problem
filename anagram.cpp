@@ -18,6 +18,6 @@ int main()
   for(int i=0;i<26;i++)
   r += abs(count[i]);
   cout<<r<<endl;
-  return 0;
 }
+return 0;
 }
